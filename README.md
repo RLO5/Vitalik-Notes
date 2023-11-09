@@ -12,3 +12,4 @@ L2s with no token:
 7- Zksync
 8- StarkNet 
 9- Fuel
+high grass fee for a few months
