@@ -12,3 +12,5 @@ L2s with no token:
 7- Zksync
 8- StarkNet 
 9- Fuel
+//
+the Intmax approach, which involves putting a few bytes on chain rollup-style together with a Plasma-like operator that passes around information between individual users.
