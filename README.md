@@ -15,4 +15,4 @@ L2s with no token:
 //
 the Intmax approach, which involves putting a few bytes on chain rollup-style together with a Plasma-like operator that passes around information between individual users.
 
-Plasma lets us completely sidestep the data availability question, greatly reducing transaction fees. Plasma can be a significant security upgrade for chains that would otherwise be validiums. The fact that ZK-EVMs are finally coming to fruition this year makes it an excellent opportunity to re-explore this design space, and come up with even more effective constructions to simplify the developer experience and protect users' funds.
+Plasma lets us completely sidestep the data availability question, greatly reducing transaction fees. Plasma can be a significant security upgrade for chains that would otherwise be validiums. The fact that ZK-EVMs are finally coming to fruition this year makes it an excellent opportunity to re-explore this design space, and come up with even more effective constructions to simplify the developer experience and protect users' 
